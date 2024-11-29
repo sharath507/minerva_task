@@ -1,0 +1,4 @@
+fastapi
+joblib
+numpy
+tensorflow==2.17.1
