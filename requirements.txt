@@ -1,4 +1,5 @@
 fastapi
+uvicorn
 joblib
 numpy
 tensorflow==2.17.1
